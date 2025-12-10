@@ -82,6 +82,7 @@ endmodule
  Developed by:Rajalakshmi V RegisterNumber: 25016476
  
 **Logic symbol & Truthtable**
+
 <img width="605" height="539" alt="Screenshot 2025-12-10 102622" src="https://github.com/user-attachments/assets/0711de30-f7a0-443d-a70e-ff9d298309e6" />
 
 

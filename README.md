@@ -1,4 +1,4 @@
-<img width="1919" height="1199" alt="Screenshot 2025-12-09 220834" src="https://github.com/user-attachments/assets/4607c137-7fe8-4cd9-9f28-91482b7d69f7" /><img width="1919" height="1199" alt="Screenshot 2025-12-09 220834" src="https://github.com/user-attachments/assets/a2bf625a-45ee-47b7-a1f5-fac1d165e735" />### study-of-basic-gates
+### study-of-basic-gates
 
 **AIM:** 
 
